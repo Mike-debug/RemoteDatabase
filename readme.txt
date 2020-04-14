@@ -1,0 +1,1 @@
+mysql-connector-java-8.0.18.jar是数据库操作必要的程序包，在工程文件中已经添加了build path，在lib中，如果失效，可以再用这个尝试连接
